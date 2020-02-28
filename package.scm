@@ -1,0 +1,16 @@
+(package
+  (name uri)
+  (version 0.1)
+  (license "BSD")
+  (authors "Alex Shinn")
+  (maintainers "Arthur Maciel <arthurmaciel at gmail dot com")
+  (description "Library for parsing and constructing URI objects")
+  (tags "net")
+  (docs "https://github.com/cyclone-scheme/cyclone-winds/wiki/uri")
+  (test "test.scm")
+  (dependencies (string pathname))
+  (test-dependencies ())
+  (foreign-dependencies ())
+  (library
+      (name (cyclone uri))
+    (description "Library for parsing and constructing URI objects")))
