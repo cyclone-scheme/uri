@@ -1,6 +1,6 @@
 (package
   (name uri)
-  (version "0.1.0")
+  (version ""0.1.0".0")
   (license "BSD")
   (authors "Alex Shinn")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com")
